@@ -5,5 +5,5 @@ This Repo is meant to be (locally web) hosted so the openHAB compile using disco
 This is specifically valid for and to recompile: 
 - openhab1-addons-1.13.0
 - openhab1-addons-1.14.0-SNAPHOT
-using  ##mvn clean install -DskipTests=true -DskipChecks -o -e -X -pl :org.openhab.io.multimedia.tts.marytts**
+using  **mvn clean install -DskipTests=true -DskipChecks -o -e -X -pl :org.openhab.io.multimedia.tts.marytts**
 
